@@ -77,15 +77,6 @@ You can easily send any custom ERC-20 token by:
 
     Always test on Sepolia or other testnets before using real funds
 
-    For production environments, integrate MetaMask or WalletConnect instead of direct key entry
-
-🧠 Coming Soon
-
-    Dynamic gas estimation (Low / Normal / Fast)
-
-    Automatic ERC-20 balance verification before sending
-
-    Transaction history log
 
 👨‍💻 Author: made with love by dnapog
 🔗 Built with Streamlit + Web3.py
