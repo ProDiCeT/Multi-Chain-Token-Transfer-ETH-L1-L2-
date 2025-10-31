@@ -27,9 +27,7 @@ pip install streamlit web3
 
 streamlit run transfer_multi_network_token.py
 
-Then open the local link displayed in your terminal (usually http://localhost:8501
-
-).
+Then open the local link displayed in your terminal (usually http://localhost:8501).
 🔧 Supported Networks
 Layer	Network	RPC Example	Explorer
 L1	Ethereum Mainnet	https://mainnet.infura.io/v3/YOUR_INFURA_KEY	etherscan.io
@@ -78,5 +76,6 @@ You can easily send any custom ERC-20 token by:
     Always test on Sepolia or other testnets before using real funds
 
 
-👨‍💻 Author: made with love by dnapog
-🔗 Built with Streamlit + Web3.py
+👨‍💻 Author
+Made with love by dnapog
+
