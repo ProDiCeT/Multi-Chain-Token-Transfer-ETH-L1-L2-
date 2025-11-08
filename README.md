@@ -77,5 +77,5 @@ You can easily send any custom ERC-20 token by:
 
 
 👨‍💻 Author
-Made with love by dnapog
+Made with love by dnapog.base.eth
 
