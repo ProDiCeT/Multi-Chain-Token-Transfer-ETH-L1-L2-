@@ -27,7 +27,7 @@ pip install streamlit web3
 
 streamlit run transfer_multi_network_token.py
 
-Then open the local link displayed in your terminal (usually http://localhost:8501).
+Then open the local link displayed in your terminal (http://localhost:8501).
 🔧 Supported Networks
 Layer	Network	RPC Example	Explorer
 L1	Ethereum Mainnet	https://mainnet.infura.io/v3/YOUR_INFURA_KEY	etherscan.io
