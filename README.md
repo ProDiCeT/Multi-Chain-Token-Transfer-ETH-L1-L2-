@@ -8,7 +8,7 @@ A simple Streamlit interface to send tokens across **Ethereum L1** and **L2 netw
 ## 🚀 Features
 
 ✅ Select between **Mainnet** or **Testnet**  
-✅ Supports **ETH native transfers** and **ERC-20 tokens** (USDC, WETH, etc.)  
+✅ Supports **ETH native transfers** and **ERC-20 tokens** 
 ✅ Add **custom ERC-20 tokens** manually (address + decimals)  
 ✅ **Check your balance** before sending (ETH or ERC-20)  
 ✅ Automatic **block explorer link** after each transaction  
