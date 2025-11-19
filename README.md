@@ -59,7 +59,7 @@ You can easily send any custom ERC-20 token by:
 
     Choosing “Custom ERC-20” mode by entering:
 
-        Token name
+Token name
 
         Contract address
 
