@@ -61,7 +61,7 @@ You can easily send any custom ERC-20 token by:
 
 Token name
 
-        Contract address
+Contract address
 
         Decimals
 
