@@ -63,7 +63,7 @@ Token name
 
 Contract address
 
-        Decimals
+Decimals
 
     The app will register your token and use it for balance check & transfer.
 
