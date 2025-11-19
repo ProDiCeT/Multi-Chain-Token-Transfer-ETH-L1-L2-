@@ -8,7 +8,7 @@ A simple Streamlit interface to send tokens across Ethereum L1 and L2 networks
 ## 🚀 Features
 
 ✅ Select between Mainnet or Testnet  
-✅ Supports **ETH native transfers** and **ERC-20 tokens** 
+✅ Supports ETH native transfers and **ERC-20 tokens** 
 ✅ Add **custom ERC-20 tokens** manually
 ✅ **Check your balance** before sending
 ✅ Automatic **block explorer link** after each transaction  
