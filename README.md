@@ -1,7 +1,7 @@
 # 💸 Multi-Chain Token Transfer (ETH / ERC-20 / L2)
 
 A simple Streamlit interface to send tokens across Ethereum L1 and L2 networks 
-(Base, Linea, Arbitrum, Optimism), with support for both **Mainnet** and **Testnet** (Sepolia).
+(Base, Linea, Arbitrum, Optimism), with support for both Mainnet and **Testnet** (Sepolia).
 
 ---
 
