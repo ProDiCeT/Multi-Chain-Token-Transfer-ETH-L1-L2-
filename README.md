@@ -57,9 +57,7 @@ L2	Optimism	https://mainnet.optimism.io	optimistic.etherscan.io
 
 You can easily send any custom ERC-20 token by:
 
-    Choosing “Custom ERC-20” mode
-
-    Entering:
+    Choosing “Custom ERC-20” mode by entering:
 
         Token name
 
