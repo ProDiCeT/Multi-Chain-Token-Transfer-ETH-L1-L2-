@@ -33,7 +33,7 @@ Layer	Network	RPC Example	Explorer
 L1	Ethereum Mainnet	etherscan.io
 L1	Ethereum Testnet	sepolia.etherscan.io
 L2	Base	basescan.org
-L2	Linea	https://rpc.linea.build	lineascan.build
+L2	Linea	lineascan.build
 L2	Arbitrum	https://arb1.arbitrum.io/rpc	arbiscan.io
 L2	Optimism	https://mainnet.optimism.io	optimistic.etherscan.io
 
