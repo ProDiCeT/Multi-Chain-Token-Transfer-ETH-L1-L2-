@@ -33,7 +33,7 @@ Layer	Network	RPC Example	Explorer
 L1	Ethereum Mainnet
 L1	Ethereum Testnet	
 L2	Base	
-L2	Linea	lineascan.build
+L2	Linea	
 L2	Arbitrum	arbiscan.io
 L2	Optimism	optimistic.etherscan.io
 
