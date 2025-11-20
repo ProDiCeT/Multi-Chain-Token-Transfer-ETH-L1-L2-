@@ -34,7 +34,7 @@ L1	Ethereum Mainnet
 L1	Ethereum Testnet	
 L2	Base	
 L2	Linea	
-L2	Arbitrum	arbiscan.io
+L2	Arbitrum	
 L2	Optimism	optimistic.etherscan.io
 
     🧠 Replace YOUR_INFURA_KEY with your own Infura project key, or use a public RPC endpoint.
