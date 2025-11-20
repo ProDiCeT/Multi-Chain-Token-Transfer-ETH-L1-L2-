@@ -32,7 +32,7 @@ Then open the local link displayed in your terminal (http://localhost:8501).
 Layer	Network	RPC Example	Explorer
 L1	Ethereum Mainnet
 L1	Ethereum Testnet	
-L2	Base	basescan.org
+L2	Base	
 L2	Linea	lineascan.build
 L2	Arbitrum	arbiscan.io
 L2	Optimism	optimistic.etherscan.io
