@@ -11,7 +11,7 @@ A simple Streamlit interface to send tokens across Ethereum L1 and L2 networks
 ✅ Supports ETH native transfers and ERC-20 tokens
 ✅ Add custom ERC-20 tokens manually
 ✅ Check your balance before sending
-✅ Automatic block explorer link after each transaction  
+✅ Block explorer link after each transaction  
 ✅ Private key is hidden for safety  
 
 ---
